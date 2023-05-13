@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 09 - Heredity and Evolution
+title: 06 - Control and Coordination
 parent: Biology
 grand_parent: Class 10
-nav_order: 4
+nav_order: 2
 ---
