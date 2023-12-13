@@ -6,4 +6,4 @@ nav_order: 1
 
 ## Creaters
 
-- (TheCottageFairy)[./blogs/the-cottage-fairy/the-cottage-fairy.html]
+- (TheCottageFairy)[course/blogs/the-cottage-fairy/the-cottage-fairy.html]
